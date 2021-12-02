@@ -14,5 +14,9 @@ public class ResponseMessage {
   public void setMessage(String message) {
     this.message = message;
   }
+  
+  void method2() {
+	  System.out.println("method2");
+  }
 
 }

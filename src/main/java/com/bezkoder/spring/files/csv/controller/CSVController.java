@@ -76,5 +76,9 @@ public class CSVController {
         .contentType(MediaType.parseMediaType("application/csv"))
         .body(file);
   }
+  
+  void method1() {
+	  System.out.println("Hi1");
+  }
 
 }

@@ -75,6 +75,9 @@ public class CSVHelper {
         csvPrinter.printRecord(data);
       }
       bhagavan4
+      void method3() {
+    	  System.out.println("method3");
+      }
 
       csvPrinter.flush();
       return new ByteArrayInputStream(out.toByteArray());
