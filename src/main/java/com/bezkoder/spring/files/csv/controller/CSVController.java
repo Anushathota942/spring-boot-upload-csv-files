@@ -121,7 +121,16 @@ f
 jhbejv
 aaaaa
 	aaa
+<<<<<<< HEAD
 xxx
 xxxxxx
 xxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxx
+=======
+	aaaaa
+	aaaaaaa
+	aaaaaaaaaaaaaaa
+	aaaaaaaaaaaaaaaaaaaaaaaaaa
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	bjbj
